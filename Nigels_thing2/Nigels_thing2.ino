@@ -8,7 +8,7 @@
 
   int outputPins[] = {7,8,9,10,11,12};
   byte inputPins[] = {A0,A1,A2,A3,A4,A5};
-  int switchPins[] = {2,3,4};
+  int switchPins[] = {2,3,5};
   int timer = 100;
   byte inputPinsmatrix[8][6] =  {
     {A0,A1,A2,A3,A4,A5}, //0,0,0 - default
